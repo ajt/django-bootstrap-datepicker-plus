@@ -24,7 +24,6 @@ setup(
     install_requires=[
         'django>=1.8',
     ],
-    python_requires='>=3',
     package_data={
         'bootstrap_datepicker_plus': [
             'templates/*.html',
